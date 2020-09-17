@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[https://c9b.bering.in](https://c9b.bering.in)
+[https://c9b.bering.in](https://c9b.bering.in){rel="me"}
